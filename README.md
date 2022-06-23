@@ -21,7 +21,7 @@ o console imprime a mensagem "Server is running!";
 # Http response:
 (Utilizei Postman para testar as requisições);
 
-200: encontrado com sucesso;
+200: encontrado com sucesso; <br />
 204: Usuário não cadastrado;
 <!-- 404: Não encontrado; -->
 
